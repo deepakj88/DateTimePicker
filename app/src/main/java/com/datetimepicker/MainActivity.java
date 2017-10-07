@@ -118,5 +118,9 @@ public class MainActivity extends AppCompatActivity {
         return false;
     }
 
+    private void testUpload(){
+        System.out.println("Init commit");
+    }
+
 
 }
